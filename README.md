@@ -32,5 +32,7 @@ you can run `man ./echo.1` to view the generated man-page.
 Here is the example man-page:
 ![echo.png](echo.png)
 
+--------
+
 ## But, why? Just, why?
 Good question.
